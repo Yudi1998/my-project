@@ -3,7 +3,7 @@
 	<head>
 		<title>NodeMCU ESP8266 MySQL Database</title>
 		<meta charset="utf-8">
-		<!-- Script for updating pages without refreshing the page -->
+	
 		<script src="jquery.min.js"></script>
 		<script>
 			$(document).ready(function() {
@@ -42,12 +42,12 @@
 		</style>
 	</head>
 	<body>
-		<h1 align="center" style="color:#1f5380;">Tabel pengambilan air</h1>
+		<h1 align="center" style="color:#1f5380;">Tabel pengambilan Toluene</h1>
 		<table>
 			<tr>
 				<th>No</th> 
 				<th>Nama karyawan</th>
-				<th>Jumlah Air (mL)</th> 
+				<th>Jumlah toluene (mL)</th> 
 				<th>Tanggal</th>
 				<th>Waktu</th>
 			</tr>
