@@ -37,7 +37,7 @@
 			<tr>
 				<th>No</th>
 				<th>Nama karyawan</th>
-				<th>Jumlah Air (mL)</th>
+				<th>Jumlah Toluene (mL)</th>
 				<th>Tanggal</th>
 				<th>Waktu</th>
 			</tr>
